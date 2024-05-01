@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"BestBoundKnapsack"},{"p":"<Unnamed>","l":"CompareByRatio"},{"p":"<Unnamed>","l":"CompareNodes"},{"p":"<Unnamed>","l":"Item"},{"p":"<Unnamed>","l":"Node"}];updateSearchResults();
